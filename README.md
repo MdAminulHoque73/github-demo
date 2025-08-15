@@ -1,4 +1,3 @@
 # github-demo
-This is my first git repository,
-<br>
-Author- Md Aminul Hoque
+
+This is my first git repository, <br> Author- Md Aminul Hq
